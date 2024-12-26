@@ -16,12 +16,12 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         appBarTheme: AppBarTheme(
-          backgroundColor: Colors.blue, // Цвет фона AppBar
+          backgroundColor: Colors.blue,
           iconTheme: IconThemeData(
-            color: Colors.white, // Белый цвет иконок в AppBar
+            color: Colors.white,
           ),
           titleTextStyle: TextStyle(
-            color: Colors.white, // Белый цвет текста в AppBar
+            color: Colors.white,
             fontSize: 20,
             fontWeight: FontWeight.bold,
           ),
